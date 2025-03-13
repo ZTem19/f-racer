@@ -1,2 +1,1 @@
-
-./home/biqu/scripts/fork.elf
+~/scripts/fork.c
