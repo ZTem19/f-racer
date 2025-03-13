@@ -1,1 +1,1 @@
-~/scripts/fork.c
+./fork.elf
