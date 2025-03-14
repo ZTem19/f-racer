@@ -2,4 +2,4 @@ F-Racer Repo Version
 0.1 Ultra Beta
 
 Supported Klipper Version # 
-1fc6d214f4fab8b9e6a051fbe42f27ef4add77ef
+3e7efe5ef1468bf221c47bcd72624878f021fdae
